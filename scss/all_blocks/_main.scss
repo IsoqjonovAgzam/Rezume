@@ -1,0 +1,111 @@
+.main__box-1{
+    background-image: url('//images/baner-main.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    max-width: 1300px;
+    height: 196px;
+    margin-bottom: 500px;
+}
+
+.main__itim{
+    margin: 0;
+    padding: 80px;
+    font-family: Fraunces 9pt;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 72px;
+    color: #FEFCF7;
+}
+  
+.main__box-selektr{
+    display: flex;
+}
+  
+.main__box-1-itim{
+    background-color: #212529;
+}
+  
+.main__box-2-itim{
+    background-color: #5da3d6;
+}
+  
+.main__box-3-itim{
+    background-color: #212529;
+    margin-bottom: 40px;
+}
+  
+.main__box-4-itim{
+    background-color: #212529;
+}
+  
+.main__box-3{
+    width: 810px;
+}
+  
+.main__box-2{
+    width: 650px;
+    height: 600px;
+    background-color: #212529;
+}
+  
+.main__box-itim{
+    text-align: center;
+    padding-left: 2rem;
+    padding-top: 250px;
+    font-family: Fraunces 9pt;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 72px;
+    color: #FEFCF7;
+}
+  
+.main__box-list-itim{
+    margin: 0;
+    padding: 10px;
+    padding-left: 2rem;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 26px;
+    color: #fff
+}
+  
+.main__itim-text{
+    margin: 0;
+    padding: 5px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #fff;
+}
+  
+.main__box-4-itim{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: #fff;
+}
+  
+.main__itim-link{
+    text-decoration: none;
+    margin: 0;
+    padding: 5px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #fff;
+}
+  
+.main__itim-link:hover{
+    text-decoration: none;
+    opacity: 0.7;
+    color: #fff;
+}
